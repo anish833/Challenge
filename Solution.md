@@ -51,7 +51,7 @@ with this. Here is my solution
 
 <img src = "Capture1.PNG" />
 
-You can google "a foe of mothra from godzilla" and you will find the key is ```Ghidorah```
+You can google ```a foe of mothra from godzilla``` and you will find the key is ```Ghidorah```
 
 The key can be used with steghide to extract hidden files from the image so doing that
 
