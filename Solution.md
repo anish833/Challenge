@@ -40,3 +40,11 @@ Megapixels                      : 10.2
 ```
 It should have a bunch of base64 but if you notice carefully you will have 3 base64 strings repeated ....
 so decoding them you will get only one hit which is 
+
+<img src="Capture.PNG" />
+
+So the hint is ```XOR is helpful``` and the data would be the other base64 strings. One will act as the string and other will act as the key
+and it is obvious because their is no other data, image that we can perform xor with. I will use python but their are online tools available that will help you 
+with this
+
+
