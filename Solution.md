@@ -55,6 +55,14 @@ The key can be used with steghide to extract hidden files from the image so doin
 
 <img src = "Capture2.PNG" />
 
+It's like I have hidden a QR code in a binary data. You can google about this technique you will get a decoder with few google searches 
+
+```https://www.dcode.fr/binary-image``` is the resource i have used but their can be others to do this
+So go to the site and decode the binary txt and you will get a QR code . Scan that code you will have the flag
+
+Flag: ```flag{y0u_d1d_1t}```
+
+Hope you have learned something new with this!!!
 
 
 
