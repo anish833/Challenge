@@ -1,3 +1,5 @@
+## Solution
+
 We get a file called challenge.jpg
 
 First check the meta data of the image
